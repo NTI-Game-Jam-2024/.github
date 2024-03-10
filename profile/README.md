@@ -30,3 +30,9 @@
 [Besök deras hemsida](https://aiescape-thegame.replit.app)
 
 [Klicka här för att ladda ner deras spel]()
+
+## Bidrag 7: CyberBot
+[Besök deras hemsida](https://cyberbot-thegame.replit.app)
+
+[Klicka här för att ladda ner deras spel]()
+
