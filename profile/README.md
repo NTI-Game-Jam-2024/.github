@@ -11,7 +11,7 @@
 
 [Klicka här för att ladda ner deras spel]()
 
-## Bidrag 3: 
+## Bidrag 3: CyberFortress
 [Besök deras hemsida](https://cyberfortress.replit.app/)
 
 [Klicka här för att ladda ner deras spel](https://github.com/NTI-Game-Jam-2024/Cyber-Fortress/releases/download/1.0.0/Cyber-Fortress.7z)
