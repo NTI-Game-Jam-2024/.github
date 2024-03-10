@@ -25,3 +25,8 @@
 [Besök deras hemsida](https://cyberscraper-thegame.replit.app)
 
 [Klicka här för att ladda ner deras spel]()
+
+## Bidrag 6: AiEscape
+[Besök deras hemsida](https://aiescape-thegame.replit.app)
+
+[Klicka här för att ladda ner deras spel]()
