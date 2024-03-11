@@ -26,7 +26,7 @@
 
 [Klicka här för att ladda ner deras spel]()
 
-## Bidrag 6: AiEscape
+## Bidrag 6: AI-Escape
 [Besök deras hemsida](https://aiescape-thegame.replit.app)
 
 [Klicka här för att ladda ner deras spel]()
